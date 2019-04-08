@@ -1,0 +1,30 @@
+section{
+    margin: 2em;
+}
+
+form{
+    margin: 2em;
+}
+
+#chatHistory{
+    background-color:wheat;
+    border: 2px solid black;
+    height: 30vh;
+    overflow-y: auto;
+}
+
+.sent-message{
+    width: max-content;
+    background-color: blue;
+    box-shadow: 5px 5px 5px lightblue;
+    padding: 1em;
+    margin: 1em;
+}
+
+.received-message{
+    width: max-content;
+    background-color: coral;
+    box-shadow: 5px 5px 5px;
+    padding: 1em;
+    margin: 1em;
+}
